@@ -4,7 +4,7 @@
 
 # Rest API MEAN STACK
 
-Creacion de nuevos empleados (Crear, Editar, Eliminar y Actualizar)
+App de nuevos empleados (Crear, Editar, Eliminar y Actualizar)
 
 # Instalacion
 

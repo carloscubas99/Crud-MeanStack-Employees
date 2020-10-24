@@ -1,0 +1,16 @@
+###
+GET http://localhost:3000/api/employees
+
+###
+POST http://localhost:3000/api/employees
+Content-Type: application/json
+
+{
+    "name":"Carlos Salvatierra Cubas",
+    "position":"Automation Lead",
+    "office":"Project Managment",
+    "salary":"15000"
+}
+
+###
+GET http://localhost:3000/api/employees/5f875d1055e9731de861a7ee

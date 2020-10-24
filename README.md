@@ -1,20 +1,22 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/ljl/api-colaborator.png">
+  <img src="https://photos.google.com/photo/AF1QipN5I-8reJNtMRk8pQPOCRv-xxU-FIokgLBMvR28">
 </p>
 
-# Rest API for web-app "Colaborator registration"
+# Rest API 
 
-Created API that edits, creates, deletes and shows all the entities created with their respective properties and methods, through mongoDB with its mongoose module
+Creacion de nuevos empleados (Crear, Editar, Eliminar y Actualizar)
 
 ## Installation
 
-For runing the project.
+Deber tener instalado nodeJS y mongoDb una vez hayas clonado el proyecto, y luego ejecutar npm install
+
+Para correr el servidor.
 
 ```bash
 npm run dev
 ```
 
-To start the databse.
+Para iniciar la base de datos.
 
 ```bash
 mongod
@@ -24,10 +26,3 @@ mongod
 https://api-colaborator-employees.herokuapp.com/api/employees
 ```
 
-## Contributing
-
-Pull requests are welcome.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)

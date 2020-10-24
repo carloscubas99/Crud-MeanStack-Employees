@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://photos.google.com/photo/AF1QipN5I-8reJNtMRk8pQPOCRv-xxU-FIokgLBMvR28">
+  <img src="">
 </p>
 
 # Rest API 
 
 Creacion de nuevos empleados (Crear, Editar, Eliminar y Actualizar)
 
-## Installation
+# Instalacion
 
 Deber tener instalado nodeJS y mongoDb una vez hayas clonado el proyecto, y luego ejecutar npm install
 

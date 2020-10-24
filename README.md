@@ -10,7 +10,7 @@ Creacion de nuevos empleados (Crear, Editar, Eliminar y Actualizar)
 
 Deber tener instalado nodeJS y mongoDb una vez hayas clonado el proyecto, y luego ejecutar npm install
 
-Para correr el servidor.
+Para iniciar el servidor.
 
 ```bash
 npm run dev
@@ -21,8 +21,9 @@ Para iniciar la base de datos.
 ```bash
 mongod
 ```
+Para iniciar el frontend
 
-```API
-https://api-colaborator-employees.herokuapp.com/api/employees
+```bash
+ng serve -o
 ```
 
